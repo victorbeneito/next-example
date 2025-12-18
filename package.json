@@ -18,6 +18,7 @@
     "postgres": "^3.4.6",
     "react": "latest",
     "react-dom": "latest",
+    "styled-jsx": "^5.1.7",
     "tailwindcss": "3.4.17",
     "typescript": "5.7.3",
     "use-debounce": "^10.0.4",
